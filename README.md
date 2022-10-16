@@ -60,7 +60,9 @@ Check all the gates following the same procedure.
 ## Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+
 Developed by: S Adithya CHowdary.
+
 RegisterNumber: 212221230100.
 */
 ~~~
@@ -82,5 +84,5 @@ endmodule
 ## RTL realization:
 ![image](https://user-images.githubusercontent.com/93427248/196043888-5252d27c-e27c-4430-bcea-bf584de19278.png)
 
-Result:
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
